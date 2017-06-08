@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\DivideNum\DivideNum\bin\Debug\DivideNum.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\DivideNum\DivideNum\bin\Debug\DivideNum.exe
+c:\users\michael\documents\visual studio 2015\Projects\DivideNum\DivideNum\bin\Debug\DivideNum.pdb
+c:\users\michael\documents\visual studio 2015\Projects\DivideNum\DivideNum\obj\Debug\DivideNum.exe
+c:\users\michael\documents\visual studio 2015\Projects\DivideNum\DivideNum\obj\Debug\DivideNum.pdb
+c:\users\michael\documents\visual studio 2015\Projects\DivideNum\DivideNum\obj\Debug\DivideNum.csprojResolveAssemblyReference.cache
